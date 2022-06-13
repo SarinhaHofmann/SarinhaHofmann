@@ -1,7 +1,7 @@
 - 👋 Oie,meu nome é Sarah Hofmann
 - 👀 Eu estou interessado em ser alguém na vida
-- 🌱 Estou aprendendo 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Estou aprendendo coisas novas
+- 💞️ Eu gosto de escutar músicas
 - 📫 How to reach me ...
 
 <!---
