@@ -2,7 +2,7 @@
 - 👀 Eu estou interessado em ser alguém na vida
 - 🌱 Estou aprendendo coisas novas
 - 💞️ Eu gosto de escutar músicas
-- 📫 How to reach me ...
+
 
 <!---
 SarinhaHofmann/SarinhaHofmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
